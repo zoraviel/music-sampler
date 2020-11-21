@@ -53,6 +53,6 @@ cover.forEach(function(el) {
         break;
     }
 
-  }
+  };
 
 });
