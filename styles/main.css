@@ -1,0 +1,88 @@
+
+body{
+  background-image: url("comicback.jpg");
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+}
+h1{
+  font-family: 'Sedgwick Ave Display', cursive;
+  font-size: 5rem;
+}
+div{
+  padding: 1rem;
+  text-align: center;
+  display: inline-block;
+  margin: 1.5rem;
+  box-shadow: 15px 15px 1px 2px black;
+  outline: solid;
+}
+
+#title{
+  background-color: #FFDE00;
+}
+
+#opddc{
+  background-color: #ED1D24;
+}
+
+#kingleader{
+  background-color: #00AEEF;
+}
+
+#acc{
+  background-color: #FFC510;
+}
+
+#mmfood{
+  background-color: #4C94F6;
+}
+
+#footer{
+  background-color: #EE5454;
+  padding: 3rem;
+}
+
+p {
+  margin-left: 3rem;
+  margin-right: 3rem;
+  text-align:justify;
+}
+
+article{
+  margin: 1rem;
+}
+
+img {
+    max-width: 100%;
+margin: auto;
+}
+
+audio {
+max-width: 100%;
+margin: auto;
+}
+
+a {
+    color: #00AEEF;
+}
+a:hover {
+    color: #000;
+}
+
+@media screen and (max-width: 1000px) {
+  #container {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  #container2 {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  body {
+    margin: 1rem;
+  }
+}
